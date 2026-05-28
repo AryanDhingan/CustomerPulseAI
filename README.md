@@ -23,9 +23,9 @@ The platform combines a premium SaaS-style frontend with a production-ready Fast
 
 ## Analytics Overview
 
-![Analytics 1](screenshots/Analyticsoverview1.png)
+![Analytics 1](screenshots/AnalyticsOverview1.png)
 
-![Analytics 2](screenshots/Analyticsoverview2.png)
+![Analytics 2](screenshots/AnalyticsOverview2.png)
 
 ---
 
