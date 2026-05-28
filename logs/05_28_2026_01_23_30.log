@@ -1,0 +1,7 @@
+[ 2026-05-28 01:23:38,375 ] 1095 matplotlib.font_manager - WARNING - Matplotlib is building the font cache; this may take a moment.
+[ 2026-05-28 01:23:40,744 ] 1639 matplotlib.font_manager - INFO - generated new fontManager
+[ 2026-05-28 01:23:42,434 ] 12 root - INFO - Reading dataset
+[ 2026-05-28 01:23:42,479 ] 18 root - INFO - Checking missing values
+[ 2026-05-28 01:23:42,483 ] 30 root - INFO - Checking duplicates
+[ 2026-05-28 01:23:42,493 ] 43 root - INFO - Checking data types
+[ 2026-05-28 01:23:42,496 ] 56 root - INFO - Validation Completed

@@ -1,0 +1,5 @@
+[ 2026-05-28 00:29:13,329 ] 12 root - INFO - Reading dataset
+[ 2026-05-28 00:29:13,376 ] 18 root - INFO - Checking missing values
+[ 2026-05-28 00:29:13,380 ] 30 root - INFO - Checking duplicates
+[ 2026-05-28 00:29:13,390 ] 43 root - INFO - Checking data types
+[ 2026-05-28 00:29:13,393 ] 56 root - INFO - Validation Completed
